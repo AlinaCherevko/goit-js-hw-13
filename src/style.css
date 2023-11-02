@@ -1,0 +1,14 @@
+.hidden {
+  display: none;
+}
+.breed-select {
+  padding: 10px;
+  /* font-size: 18px; */
+}
+.title,
+.after-title,
+.description,
+.loader,
+.error {
+  font-family: Arial, Helvetica, sans-serif;
+}
